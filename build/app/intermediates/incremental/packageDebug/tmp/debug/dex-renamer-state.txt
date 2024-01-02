@@ -1,0 +1,4 @@
+#Wed Dec 20 13:05:43 WIB 2023
+base.0=C\:\\Users\\Julian Diwandara\\OneDrive\\Dokumen\\mobile_programming\\vscode\\UAS\\mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
